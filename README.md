@@ -1,1 +1,1 @@
-Store holder name, account number, balance
+This is a basic Object-Oriented Programming example covering class, object, encapsulation, constructor, and methods.
